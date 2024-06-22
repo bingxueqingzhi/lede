@@ -13,4 +13,4 @@ src-git wechatpush https://github.com/tty228/luci-app-wechatpush.git
 src-git openappfilter https://github.com/destan19/OpenAppFilter.git
 src-git homebox https://github.com/sirpdboy/netspeedtest.git
 src-git netmaker https://github.com/sbilly/netmaker-openwrt.git
-#src-git kenzok8 https://github.com/kenzok8/small-package.git
+src-git kenzok8 https://github.com/kenzok8/small-package.git
