@@ -14,3 +14,5 @@ src-git openappfilter https://github.com/destan19/OpenAppFilter.git
 src-git homebox https://github.com/sirpdboy/netspeedtest.git
 src-git netmaker https://github.com/sbilly/netmaker-openwrt.git
 src-git kenzok8 https://github.com/kenzok8/small-package.git
+src-git nss_packages https://github.com/qosmio/nss-packages.git
+src-git sqm_scripts_nss https://github.com/qosmio/sqm-scripts-nss.git
